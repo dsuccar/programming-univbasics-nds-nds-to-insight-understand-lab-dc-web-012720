@@ -14,6 +14,6 @@ def print_first_directors_movie_titles
     'Lincoln'
   ]
 
-  p print_first_directors_movie_titles
+  puts print_first_directors_movie_titles
 end
 # Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n
