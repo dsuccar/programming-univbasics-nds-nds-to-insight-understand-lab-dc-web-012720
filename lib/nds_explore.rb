@@ -10,7 +10,7 @@ end
 def print_first_directors_movie_titles
   require 'pp'
   print_first_directors_movie_titles = [
-    'jaws','Close Encounters of the Third Kind','Raiders of the Lost Ark', 'E.T. the Extra-terrestrial', 'Schindler\'s List',
+    jaws,'Close Encounters of the Third Kind','Raiders of the Lost Ark', 'E.T. the Extra-terrestrial', 'Schindler\'s List',
     'Lincoln'
   ]
 
